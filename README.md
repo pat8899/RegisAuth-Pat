@@ -1,2 +1,2 @@
 # RegisAuth-Pat
-ReactJS  Registration &amp; Authentication ด้วย Firebase
+ReactJS  Registration &amp; Authentication with Firebase
