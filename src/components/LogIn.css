@@ -1,0 +1,9 @@
+.LoginGrid {
+    display: grid;
+    grid-column: 1fr 1fr;
+}
+
+.LoginWraper {
+    margin: 0 auto;
+    max-width: 1000px;
+}
