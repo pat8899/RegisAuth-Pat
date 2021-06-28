@@ -1,2 +1,2 @@
 # RegisAuth-Pat
-ReactJS  Registration &amp; Authentication with Firebase
+ReactJS  Registration and Authentication with Firebase
